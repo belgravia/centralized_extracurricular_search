@@ -1,0 +1,50 @@
+Organization	Group_number
+*LEAD Center*	16
+AAVP Grants	0
+AAVPG - Academic Opportunity Fund	0
+ASUC - Senate	8
+American Medical Women's Association at Berkeley	9
+American Nuclear Society	18
+Anti-Trafficking Coalition at Berkeley 	14
+BerKast	14
+Berkeley Chinese Students and Scholars Association	2
+Berkeley College Republicans	14
+Berkeley Organization for Animal Advocacy	13
+CALLINK TEST ORGANIZATION	14
+Cal Habitat for Humanity	0
+Cal Organization for Media Studies - name not approved	14
+Christian Science Organization at Berkeley	11
+College Entrepreneur Organization at Berkeley	1
+Confi	9
+Danza In Xochitl In Cuicatl	15
+Department of Integrative Biology Students	19
+Entomology Students' Organization	4
+Exposure-Organization of Student Photographers	3
+Food, Equity, Entrepreneurship, & Development	7
+GA Training Organization TESTING ONLY	14
+Graduate Data Science Organization	10
+Haas Undergraduate Black Business Association	14
+Hellenic Student Association at Berkeley	1
+Hispanic Engineers and Scientists	6
+International Students Association at Berkeley	2
+Korean American Student Association	9
+Latinx Pre-Law Society 	17
+Learning Enterprises at Berkeley	1
+Middle Eastern North African Recruitment and Retention Center	6
+National Organization for Women	12
+Organization of African Students at Berkeley	5
+Organization of Graduate Students in Digital Humanities	1
+Organization of Jewish Graduate Students	2
+Pilipino American Alliance	9
+Pre-Law Society at Berkeley	11
+RSO - Registered Student Organization	8
+Serbian Student Organization at Berkeley - BOSS	4
+Student Opportunity Fund (SOF)	0
+Student Organization for Advanced Legal Studies	5
+Students Organize for Syria at Berkeley	7
+TRENZA	15
+Technology Entrepreneurs Club at Berkeley 	3
+Undergraduate Marketing Association	7
+United Nations Association of Berkeley	2
+WeTeach at Berkeley	17
+Zoroastrian Student Organization	3
