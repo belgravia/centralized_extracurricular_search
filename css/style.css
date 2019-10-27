@@ -1,0 +1,107 @@
+body {
+    font: 'lato'sans-serif; 
+}
+
+#searchbar {
+    position: fixed;
+    margin-left: 40%;
+    height: 5%;
+    width: 50%;
+    top: 40px;
+    border-radius: 10px;
+    border-bottom-color: #d7d0cbff;
+}
+
+#icon {
+    position: fixed;
+    height: 120px;
+    margin-left: 150px;
+    z-index: -1
+}
+
+.dot {
+    position: relative;
+    display: block;
+    background-color: #8c005aff;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    margin-top: 150px;
+    opacity: 0.8;
+    font-size: 30pt;
+    color: white;
+}
+
+.dot p {
+    text-align: center;
+    margin-top: 40%;
+}
+
+.medium {
+    margin-right: 120px;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    opacity: 0.6;
+}
+
+.small {
+    height: 50px;
+    width: 50px;
+    opacity: 0.4;
+}
+
+.r {
+    float: right;
+    background-color: #41bcc9ff;
+    margin-right: 10px;
+}
+
+.cluster1{
+    margin: 120px 30px -30px 100px;
+}
+
+.cluster2{
+    margin: 90px 70px -30px 100px;
+    
+}
+
+.describe {
+    position: relative;
+}
+.l {
+    float: left;
+    margin-left: 40px;
+}
+
+footer {
+    position: absolute;
+    margin-top: 120vh;
+    width: 100%;
+    margin-bottom: 0;
+}
+
+.ftrbox {
+    background-color: #d7d0cbff;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    
+}
+
+li {
+    float: right;
+    display: block;
+    margin: 30px; 
+    text-align: center;
+}
+
+ul li a {
+    color: black;
+}
+
+ul li a:hover {
+    text-decoration: none;
+}
